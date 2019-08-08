@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tungstenmod",
+  "name": "TungstenMOD",
+  "description": "add material 'Tungsten' and this tools.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "",
+  "logoFile": "assets/tungstenmod/logo.png",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]

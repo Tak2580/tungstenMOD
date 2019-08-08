@@ -1,3 +1,4 @@
 #このファイルはアイテムの日本語名設定ファイルです。
 item.tungsten.name=タングステンインゴット
 tile.tungsten_block.name=タングステンブロック
+item.tungsten_pickaxe.name=タングステンツルハシ
